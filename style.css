@@ -1,0 +1,46 @@
+*{
+    font-family: sans-serif;
+}
+
+.container{
+    width: 1520px;
+   
+    padding-left: 150px;
+    
+}
+section{
+    
+    display: inline-block;
+    width: 250px;
+    vertical-align: top;
+    margin: 5px;
+}
+img{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+.h31{
+    padding:10px;
+    padding-left: 10px;
+}
+.h32{
+    padding: 5px;
+    padding-left: 9px;
+}
+.h33{
+    padding:5px;
+    padding-left: 10px;
+}
+.h34{
+    padding:0px 10px;
+}
+p{
+    padding:8px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+
+
