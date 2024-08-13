@@ -6,6 +6,9 @@
     padding: 5px;
     margin-left:700px
 }
+*{
+    font-family: sans-serif;
+}
 
 .cont1{
     height:70px;
